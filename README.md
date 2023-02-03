@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ecc2892aa7ea3e0a69f8cbce1f8bfab7fed99231350849b57582fa0097b648fd
-size 29
+# Credit Card Fraud Detection
+
+♦ In this project, I built a Credit card Fraud Detection system using Machine Learning with Python. 
+
+♦ For this project, I used the Logistic Regression model.
+ 
+♦ It can detect credit card fraudulent transactions.
